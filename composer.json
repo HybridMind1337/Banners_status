@@ -1,0 +1,5 @@
+{
+    "require": {
+        "austinb/gameq": "^3.0"
+    }
+}
