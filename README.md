@@ -27,5 +27,5 @@ The statistics were made by the team of [WEBOcean.info](https://webocean.info/)
 ### How to add more games?
 If you want to add more games, just add the game icon to the `/images/games` folder, the name of the icon should be the name of the protocol written in the GameQ [API documentation](https://austinb.github.io/GameQ/api/namespace-GameQ.Protocols.html).
 
-**Example**
+**Example**:
 You want the banner statistics to give you statistics of the game `Team Fortress 2`, and in the API documentation the protocol is written `tf2`, the name of the icon must be `tf2.png`
