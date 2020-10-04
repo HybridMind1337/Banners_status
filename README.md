@@ -29,3 +29,12 @@ If you want to add more games, just add the game icon to the `/images/games` fol
 
 **Example**:
 You want the banner statistics to give you statistics of the game `Team Fortress 2`, and in the API documentation the protocol is written `tf2`, the name of the icon must be `tf2.png`
+
+
+### How to get the banner?
+You open the statistics as a link, example:
+`yoursite.com/status/index.php?ip=127.0.0.1:27015&game=cs16`
+
+**As you will need to replace**
+- **127.0.0.1:27015** with the IP address of your server
+- **cs16** with the name of the game.
