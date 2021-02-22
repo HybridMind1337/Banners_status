@@ -7,7 +7,7 @@ require_once __DIR__ . "/includes/functions.php";
 $URL = explode("/", htmlspecialchars($_SERVER['QUERY_STRING']));
 
 if(!checkIP($URL[1])) {
-    header("Location: ../index.ph");
+    header("Location: ../index.php");
 }
 
 $GameQ = new \GameQ\GameQ();
